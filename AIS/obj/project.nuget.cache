@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KhggGWPchw=",
+  "dgSpecHash": "CseNjQpXwM8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asad\\Documents\\GitHub\\IAMS\\ais\\AIS\\AIS\\AIS.csproj",
+  "projectFilePath": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\AIS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asad\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Asad\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
@@ -157,5 +157,12 @@
     "C:\\Users\\Asad\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Asad\\.nuget\\packages\\webessentials.aspnetcore.pwa\\1.0.85\\webessentials.aspnetcore.pwa.1.0.85.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|c:\\users\\asad\\documents\\github\\asad\\ias-chatgtp\\ais\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|solutionrelative:ais\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|c:\\users\\asad\\documents\\github\\asad\\ias-chatgtp\\ais\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|solutionrelative:ais\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|c:\\users\\asad\\documents\\github\\asad\\ias-chatgtp\\ais\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|solutionrelative:ais\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|c:\\users\\asad\\documents\\github\\asad\\ias-chatgtp\\ais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|solutionrelative:ais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|c:\\users\\asad\\documents\\github\\asad\\ias-chatgtp\\ais\\sessionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72EF75F1-0BBC-4A96-8514-1C6E7E854FCB}|AIS\\AIS.csproj|solutionrelative:ais\\sessionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AIS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AIS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:40:38.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\appsettings.json",
+              "RelativeDocumentMoniker": "AIS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\appsettings.json",
+              "RelativeToolTip": "AIS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T00:31:24.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\SessionHandler.cs",
+              "RelativeDocumentMoniker": "AIS\\SessionHandler.cs",
+              "ToolTip": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\SessionHandler.cs*",
+              "RelativeToolTip": "AIS\\SessionHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:43:16.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\Program.cs",
+              "RelativeDocumentMoniker": "AIS\\Program.cs",
+              "ToolTip": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\Program.cs*",
+              "RelativeToolTip": "AIS\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:36:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\DBConnection.cs",
+              "RelativeDocumentMoniker": "AIS\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Asad\\Documents\\GitHub\\Asad\\IAS-ChatGTP\\AIS\\DBConnection.cs",
+              "RelativeToolTip": "AIS\\DBConnection.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAjwGEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:32:03.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

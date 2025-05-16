@@ -1,10 +1,11 @@
+﻿using AIS;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-
+using System;
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services
+// 1️⃣ Service registrations
 builder.Services.AddControllersWithViews();
 builder.Services.AddAuthentication("Cookies")
     .AddCookie("Cookies", options =>
@@ -12,19 +13,31 @@ builder.Services.AddAuthentication("Cookies")
         options.LoginPath = "/Account/Login";
     });
 
+builder.Services.AddScoped<SessionHandler>();
+builder.Services.AddHttpContextAccessor();
+
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+// 2️⃣ Build the app
 var app = builder.Build();
 
-// Configure middleware
+// 3️⃣ Middleware pipeline
 if (!app.Environment.IsDevelopment())
-{
+    {
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
-}
+    }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-app.UseRouting();
 
+app.UseRouting();
+app.UseSession();
 app.UseAuthentication();
 app.UseAuthorization();
 
